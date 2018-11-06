@@ -1,4 +1,4 @@
-#Learning Objectives for indvidual-work
+# Learning Objectives for indvidual-work
 
 * Network activity
 * Remotes
